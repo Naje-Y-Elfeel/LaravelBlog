@@ -18,4 +18,4 @@ Simply copy files with the same hierarchy in your server and move to the public 
 
 ## Authors
 
-* **Naje Yagoub Elfeel** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Naje Yagoub Elfeel** 
