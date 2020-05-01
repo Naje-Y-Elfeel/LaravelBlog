@@ -1,11 +1,4 @@
 # Laravel Blog
-<img src="public/images/laravel.png">
-
-Laravel Blog website with multiple functionalities
-
-### Installing
-
-Simply copy files with the same hierarchy in your server and move to the public folder and you will be fine.
 
 ## Functionalities
 
